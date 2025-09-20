@@ -1,0 +1,36 @@
+data/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+data/
+*.zip
+*.tar.gz
+
+# Model checkpoints / trained models
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+
+# VSCode
+.vscode/
